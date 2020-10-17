@@ -36,13 +36,13 @@ function writePassword() {
     alert("Password length can only be between 8 - 128. Please try again!")
   } else {
 
-    var alphaUTrue = confirm("Do you want chars?")
+    var alphaUTrue = confirm("Do you want Alphabets?")
 
     var alphaLTrue = confirm("Do you want Lowercase aphabets?")    
 
-    var sCharsTrue = confirm("Do you want special chars?")
+    var sCharsTrue = confirm("Do you want special charecters?")
 
-    var digitTrue = confirm("Do you want nums?")
+    var digitTrue = confirm("Do you want numbers?")
 
     var emojisTrue = confirm("Do you want emojis?")
 
@@ -66,9 +66,9 @@ function writePassword() {
     // creating 2 different random number variables based of
     // 1. length of the created array of arrays;
     // 2. length of the assumed fixed (10) elements in the initially declared arrays
-
+      console.log("hhhhiii")
       i =  Math.floor(Math.random() * ((possibles.length) - 0)) + 0;
-      j =  Math.floor(Math.random() * ((fix_num_in_array -1)  - 0)) + 0;
+      j =  Math.floor(Math.random() * ((fix_num_in_array)  - 0)) + 0;
 
       // accumulating the random collected elements to created a random password
 
@@ -84,6 +84,7 @@ function writePassword() {
     pwArea.textContent = pw
   }
 }
+
 
 // creating an event listened and invoking right password function
 generateBtn.addEventListener("click", writePassword);
