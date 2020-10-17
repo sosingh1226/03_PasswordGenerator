@@ -1,3 +1,11 @@
+URL of the deployed application:
+
+https://github.com/sosingh1226/03_PasswordGenerator.git
+
+URL of the GitHub Repo:
+
+https://github.com/sosingh1226/03_PasswordGenerator
+
 # About this project:
 
 This project was very intimadting the first few days I saw. I kept reading the instructions again and again and again. Seeked help from colleagues and instructor's brief was extremely helpful. 
