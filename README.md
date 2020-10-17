@@ -1,3 +1,22 @@
+# About this project:
+
+This project was very intimadting the first few days I saw. I kept reading the instructions again and again and again. Seeked help from colleagues and instructor's brief was extremely helpful. 
+
+I figured a way to start scribbling through my notebook before I could write anything directly on my computer.
+
+Also making a rough flowchart helped.
+
+I'm happy to acheive the required results with very comprehensive steps that I took to generate random passwords based on the user selections.
+
+Find the screenshot of my screen here
+./Assets/MyScreen.png
+
+
+
+THANK YOU!
+
+-------------------------------------------------
+
 # 03 JavaScript: Password Generator
 
 ## Your Task
