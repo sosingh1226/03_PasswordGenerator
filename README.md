@@ -1,6 +1,6 @@
 URL of the deployed application:
 
-https://github.com/sosingh1226/03_PasswordGenerator.git
+https://sosingh1226.github.io/03_PasswordGeneratorBySoumya/
 
 URL of the GitHub Repo:
 
@@ -17,7 +17,7 @@ Also making a rough flowchart helped.
 I'm happy to acheive the required results with very comprehensive steps that I took to generate random passwords based on the user selections.
 
 Find the screenshot of my screen here
-./Assets/MyScreen.png
+![password generator demo](./Assets/MyScreen.png)
 
 
 
